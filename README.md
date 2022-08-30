@@ -1,6 +1,6 @@
 <h1> Olá, sou Douglas Costet </h1>
 
-Futuro Dev.
+<h6>Futuro Dev.</h6>
 
 ```python
 class Programmer
